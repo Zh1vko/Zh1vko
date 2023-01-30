@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zh1vko
-- 👀 I’m interested in developing software
+- 👋 Hi, I’m @Zh1vko  
+- 👀 I’m interested in all kinds of projects, which can help me improve my foundations.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on smaller scale projects untill I improve my knowledge
 
